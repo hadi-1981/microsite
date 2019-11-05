@@ -1,0 +1,22 @@
+body{
+    background-image: url("../img/mettmann.jpg") ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 20% 0 20%;
+    color: honeydew;
+}
+img{
+    width: 150px;
+   position: absolute;
+   top: 0;
+   right: 50%;
+   display: block
+}
+.main-text{
+   position: absolute;
+   top: 30%;
+   padding: 20px;
+   background-color: rgba(100, 101, 101, 0.5);
+   height: 40vh;
+}
